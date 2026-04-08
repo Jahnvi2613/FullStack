@@ -1,0 +1,11 @@
+This experiment focuses on developing a responsive single-page web application using ReactJS along with the Vite build tool and Material UI components. The main objective of this experiment is to understand component-based development in React and to design a modern user interface using prebuilt UI components provided by Material UI. Vite is used to create and run the project because it provides faster development and quick hot reloading compared to traditional setups.
+
+In this application, the user interface is divided into multiple reusable components to improve modularity and maintainability. A Navbar component is created to display the navigation bar at the top of the page. A Hero Section component is designed to present the main heading and introductory content to attract users. A Card Component is used to display information in a structured card layout using grid design. Finally, a Footer component is added at the bottom of the page to display additional information and complete the layout.
+
+All these components are organized inside a components folder and are imported into the Home page. The Home page combines all the components using a Material UI Container to maintain proper alignment and responsiveness. This structure helps in keeping the code clean and reusable.
+
+Material UI is used to enhance the appearance of the application. It provides ready-made components such as AppBar, Toolbar, Button, Card, Typography, Grid, and Box, which make the design modern and consistent. Using these components reduces development time and improves the overall look of the website.
+
+During the experiment, we also learned how to install external libraries using npm, manage project folders properly, handle import paths correctly, and solve common errors such as module not found and case sensitivity issues. The application runs using the Vite development server, which provides fast builds and smooth performance.
+
+Thus, this experiment helped in understanding React fundamentals, component creation, project structuring, and UI development using Material Design. The final outcome is a responsive and visually appealing web page built successfully using modern frontend technologies.
